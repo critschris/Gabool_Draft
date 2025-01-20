@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ogwUzt5TBPCE8RQowMsZ-5" value="Game Manager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="120" width="210" height="260" as="geometry" />
+          <mxGeometry x="40" y="40" width="210" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ogwUzt5TBPCE8RQowMsZ-6" value="+ Board prefab&lt;div&gt;+ List &amp;lt;prefab for pieces&amp;gt;&lt;/div&gt;&lt;div&gt;+ List &amp;lt;Level SO&amp;gt;&lt;br&gt;&lt;div&gt;+ whitePlayer&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+ blackPlayer&lt;/div&gt;&lt;div&gt;+ activePlayer&lt;/div&gt;&lt;div&gt;+ enum gameState&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ogwUzt5TBPCE8RQowMsZ-5" vertex="1">
           <mxGeometry y="26" width="210" height="114" as="geometry" />
